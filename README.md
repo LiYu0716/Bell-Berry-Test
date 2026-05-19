@@ -1,2 +1,2 @@
 # Bell-Berry-Test
-Simulation and analysis for Bell test and Berry phase. Including trajectory of the changing state on Poincaré sphere by placing wave plates and CHSH inequality violation analysis. 
+MATLAB code for Bell test and Berry phase simulation and analysis. Including trajectory of the changing state simulation on Poincaré sphere by placing number of wave plates. 
